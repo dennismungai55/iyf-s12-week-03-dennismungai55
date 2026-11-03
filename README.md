@@ -1,10 +1,10 @@
-# Your Name - Week 03 Project
+# Dennis Mungai - Week 03 Project
 
-Brief description of your project and what you learned this week.
+Brief description of my project and what i learned this week.
 
 ## Live Demo
 
-[View Live Site](https://yourusername.github.io/iyf-s12-week-03-yourusername)
+[View Live Site](https://dennismungai55.github.io/iyf-s12-week-03-dennismungai55)
 
 ## Screenshot
 
@@ -26,7 +26,7 @@ Brief description of your project and what you learned this week.
 ## Project Structure
 
 \`\`\`
-iyf-s12-week-03-yourusername/
+iyf-s12-week-03-dennismungai55
 ├── index.html
 ├── about.html
 ├── projects.html
@@ -38,7 +38,7 @@ iyf-s12-week-03-yourusername/
 
 ## What I Learned
 
-Describe key lessons from building this project.
+ key lessons from building this project.
 
 ## Future Improvements
 
@@ -48,13 +48,13 @@ Describe key lessons from building this project.
 
 ## Contact
 
-- Email: your@email.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Email: mungaidennis962@gmail.com
+  
+- GitHub: [@dennismungai55](https://github.com/dennismungai55)
 
 ## Collaboration
 
-- **Partner:** [@partner](https://github.com/partner)
+- **Partner:** [@elvis](https://github.com/elvis)
 - **Pair repo:** https://github.com/...
 - **PR I opened:** https://github.com/.../pull/N
 - **PR I reviewed:** https://github.com/.../pull/N
