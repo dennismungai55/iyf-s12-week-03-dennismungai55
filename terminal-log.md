@@ -3,7 +3,6 @@
 ## Exercise 1: Basic Navigation
 
 | Command | What it did |
-|---|---|
 | `pwd` | Displayed my current directory. |
 | `ls` | Listed files and folders. |
 | `cd ~/Documents` | Navigated to my Documents folder. |
@@ -24,3 +23,6 @@
 | `touch my-project/README.md` | Created the README file. |
 | `ls my-project` | Checked the project folders and files. |
 | `ls my-project/src` | Checked the source folders. |
+
+
+
