@@ -1,18 +1,65 @@
-## Challenges Faced
+# Your Name - Week 03 Project
 
-### Git Merge Conflict
+Brief description of your project and what you learned this week.
 
-During the branching and merging exercise, I encountered a merge conflict in `about.html`.
+## Live Demo
 
-The conflict happened because two feature branches were created from `main` and both modified the same paragraph in the About page.
+[View Live Site](https://yourusername.github.io/iyf-s12-week-03-yourusername)
 
-- The first branch changed the description to focus on learning web development.
-- The second branch changed the same paragraph to describe my interest in creating responsive websites.
+## Screenshot
 
-When I merged the first branch, it was successful. However, merging the second branch caused a conflict because Git could not automatically decide which version to keep.
+![Project Screenshot](./images/screenshot.png)
 
-**How I resolved it:**
+## Features
 
-I used GitHub's Resolve conflicts editor, reviewed both versions, and combined their ideas into one paragraph. I removed the conflict markers, marked the conflict as resolved, and completed the merge into `main`.
+- ✅ Responsive design
+- ✅ Accessible (WCAG compliant)
+- ✅ Multi-page layout
+- ✅ Contact form
 
-This helped me understand why merge conflicts happen and how to resolve them manually.
+## Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Grid)
+- Git & GitHub
+
+## Project Structure
+
+\`\`\`
+iyf-s12-week-03-yourusername/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── css/
+│   └── styles.css
+└── images/
+\`\`\`
+
+## What I Learned
+
+Describe key lessons from building this project.
+
+## Future Improvements
+
+- [ ] Add JavaScript interactivity
+- [ ] Implement dark mode
+- [ ] Add project filtering
+
+## Contact
+
+- Email: your@email.com
+- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/yourusername)
+
+## Collaboration
+
+- **Partner:** [@partner](https://github.com/partner)
+- **Pair repo:** https://github.com/...
+- **PR I opened:** https://github.com/.../pull/N
+- **PR I reviewed:** https://github.com/.../pull/N
+- **Merge-conflict PR:** https://github.com/.../pull/N
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
